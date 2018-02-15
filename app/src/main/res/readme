@@ -1,0 +1,5 @@
+1. include play services in gradle
+2. generate sha 1 key hash : https://stackoverflow.com/questions/15727912/sha-1-fingerprint-of-keystore-certificate
+3.LearnAuth O Auth client id: 596913681336-8krdp2ivru14emvl45aim09nkej8d2jh.apps.googleusercontent.com
+4. LearnAuth o Auth client secret: 0EqvooFfnm0RcE40if24hAVM
+5. If i have to send these credentials in future: https://developers.google.com/identity/sign-in/android/start-integrating
